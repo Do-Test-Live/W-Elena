@@ -60,8 +60,8 @@ body {
 
     --base-color: #535353;
     --heading-color: #0C0C0C;
-    --primary-color: #FF3636;
-    --secondary-color: #FF5F1B;
+    --primary-color: #0980d3;
+    --secondary-color: #0964a3;
     --lighter-color: #F6F6F6;
     --border-color: #DDDDDD;
 }
@@ -502,7 +502,7 @@ a.theme-btn.style-five {
 }
 
 .theme-btn.style-five:not(:hover),
-a.theme-btn.style-five:not(:hover) {
++a.theme-btn.style-five:not(:hover) {
     background: var(--secondary-color);
 }
 
@@ -1317,8 +1317,8 @@ a.theme-btn.big-btn {
 /* Home Three */
 .home-three,
 .primary-two {
-    --primary-color: #FF5F1B;
-    --secondary-color: #6534CE;
+    --primary-color: #0980d3;
+    --secondary-color: #0964a3;
 }
 
 .home-three .section-title h3 {
