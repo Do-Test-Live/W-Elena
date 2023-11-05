@@ -1323,8 +1323,9 @@ a.theme-btn.big-btn {
 /* Home Three */
 .home-three,
 .primary-two {
-    --primary-color: #0980d3;
-    --secondary-color: #0964a3;
+    --primary-color:#33ab5f;
+    --secondary-color:  #8cdba9;
+
 }
 
 .home-three .section-title h3 {
